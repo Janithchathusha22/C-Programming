@@ -6,7 +6,7 @@ int main() {
     double a, b, c;
     double discriminant, root1, root2;
 
-    printf("Enter the value a : ");
+    printf("Enter the Amount AAAA : ");
     scanf("%lf", &a);
     printf("Enter the value b : ");
     scanf("%lf", &b);
